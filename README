@@ -1,0 +1,22 @@
+tetrology
+--12/2011
+
+by Joe Hay
+
+LICENSE: All files contained here are open-source software released under the terms of the GPL (http://www.gnu.org/licenses/gpl.html).
+
+tetrology is a Four-in-a-Line game I developed as a practice exercise when studying John Zelle's book, "Python Programming: An introduction to Computer Science."
+
+The program consists of 8 files:
+
+Two graphics modules developed by John Zelle for his text:
+-graphics.py
+-button.py
+
+The tetrology files.
+-tetroboard.py
+-tetrobutton.py
+-tetrogui.py
+-tetroinfo.py
+-tetrology.py           - This one runs the program
+-tetrosplash.py
