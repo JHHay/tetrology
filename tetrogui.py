@@ -1,4 +1,7 @@
 # tetrogui.py
+# Since tetrology follows a model-view architecture,
+# this module would be the "view." It also handles
+# user input.
 
 from graphics import *
 from button import Button
