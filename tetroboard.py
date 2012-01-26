@@ -1,4 +1,6 @@
 # tetroboard.py
+# The playing board model used to create and track the playing board,
+# which consists of columns and slots, and check for win conditions
 
 directions = [(-1,-1), (-1,0), (-1,1), (0,1), (1,1), (1,0), (1,-1), (0,-1)]
 
