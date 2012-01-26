@@ -1,4 +1,6 @@
 # button.py
+# by John Zelle
+
 from graphics import *
 
 class Button:
