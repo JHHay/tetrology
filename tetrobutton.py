@@ -1,4 +1,6 @@
 # tetrobutton.py
+# Special buttons I designed to sit above the tetrology playing board.
+# Based on John Zelle's button.py module
 
 from graphics import *
 
