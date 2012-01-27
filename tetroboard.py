@@ -41,6 +41,8 @@ class PlayingBoard:
         location = (column, slot)
         self.checkWin(location, player)
         return location
+        
+# The next three methods, combined, perform the win-scenario-checking algorithm
 
     def checkWin(self, location, player):
         # determines if the piece has entered a winning line
